@@ -1,0 +1,2 @@
+C:/Users/sigjak/Downloads/planets-main/android/app/.cxx/RelWithDebInfo/3og341j5/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/sigjak/Downloads/planets-main/android/app/.cxx/RelWithDebInfo/3og341j5/x86_64/CMakeFiles/rebuild_cache.dir

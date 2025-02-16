@@ -1,0 +1,2 @@
+C:/Users/sigjak/Downloads/planets-main/android/app/.cxx/Debug/y1b452k3/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/sigjak/Downloads/planets-main/android/app/.cxx/Debug/y1b452k3/arm64-v8a/CMakeFiles/rebuild_cache.dir
